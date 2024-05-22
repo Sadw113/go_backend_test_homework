@@ -1,0 +1,4 @@
+*.doc
+
+# Игнорировать файл README.md.
+README.md
